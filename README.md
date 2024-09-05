@@ -1,1 +1,1 @@
-# C-_simple_App
+# C++_simple_App
